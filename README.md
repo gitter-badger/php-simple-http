@@ -1,0 +1,1 @@
+tiny and slow ;) php classes for work with file_get_contents
