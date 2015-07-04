@@ -15,12 +15,12 @@
   },
   "require": {
     "php": ">=5.5",
-    "bpteam/dry-text": "master"
+    "bpteam/php-dry-text": "master"
   },
   "repositories":[
     {
       "type": "vcs",
-      "url": "https://github.com/bpteam/dry-text"
+      "url": "https://github.com/bpteam/php-dry-text"
     }
   ],
   "autoload" : {
